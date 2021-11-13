@@ -7,7 +7,7 @@ Enchanted Golden Apple finder for Minecraft (can be modified)
 
 # [ info ]
 
- I made this public because I dont play blockgame anymore just kys if you playing oldfag or etc.
+ I made this public because I dont play blockgame anymore if you playing oldfag or etc.
  Its open source project, you can modify it to yoursef
 
 # [ Usage ]

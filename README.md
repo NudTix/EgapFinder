@@ -1,5 +1,5 @@
 <div align="center">
-# EgapFinder
+# [ EgapFinder ]
 Enchanted Golden Apple finder for Minecraft (can be modified)
 
 # [ info ]

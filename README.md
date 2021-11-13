@@ -13,6 +13,8 @@ Enchanted Golden Apple finder for Minecraft (can be modified)
 
 # [ How To Build Yourself ]
 
+</div>
+
 + Copy the files to folder on your desktop, then open cmd in folder
 + Write gradlew setupdecompworkspace
 + when it finished

@@ -1,2 +1,2 @@
 # EgapFinder
-Enchanted Golden Apple finder for blockgame (can be modified)
+Enchanted Golden Apple finder for Minecraft (can be modified)

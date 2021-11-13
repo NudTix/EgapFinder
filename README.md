@@ -19,8 +19,7 @@ Enchanted Golden Apple finder for Minecraft (can be modified)
 + write gradlew build
 + and the builded jar will be on build/libs/
 
-<div align="bottom">
 # [ Supporter ]
-
+</div>
 + [Luxotick](https://github.com/Luxotick)
 + [NudTix](https://github.com/NudTix)
